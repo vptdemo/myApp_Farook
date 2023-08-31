@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_caukp_myapp_faro.extint_github_globalscript</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>extint_github_globalscript</name>
+        <script><![CDATA[var extint_github_globalscript = Class.create();
+extint_github_globalscript.prototype = {
+    initialize: function() {
+    },
+	//hi some feature
+    type: 'extint_github_globalscript'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin.FS</sys_created_by>
+        <sys_created_on>2023-08-31 15:26:09</sys_created_on>
+        <sys_id>a2649db01b497550719832e8cd4bcbfe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>extint_github_globalscript</sys_name>
+        <sys_package display_value="myApp_Farook" source="x_caukp_myapp_faro">e322518c1b0d3550cf7f43b4cc4bcb6f</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="myApp_Farook">e322518c1b0d3550cf7f43b4cc4bcb6f</sys_scope>
+        <sys_update_name>sys_script_include_a2649db01b497550719832e8cd4bcbfe</sys_update_name>
+        <sys_updated_by>admin.FS</sys_updated_by>
+        <sys_updated_on>2023-08-31 15:26:09</sys_updated_on>
+    </sys_script_include>
+</record_update>
