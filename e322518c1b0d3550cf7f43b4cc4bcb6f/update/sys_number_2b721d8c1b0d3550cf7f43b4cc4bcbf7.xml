@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_caukp_myapp_faro_mytest">x_caukp_myapp_faro_mytest</category>
+        <maximum_digits>4</maximum_digits>
+        <number>1000</number>
+        <prefix>TEST</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin.FS</sys_created_by>
+        <sys_created_on>2023-08-29 07:19:43</sys_created_on>
+        <sys_id>2b721d8c1b0d3550cf7f43b4cc4bcbf7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TEST</sys_name>
+        <sys_package display_value="myApp_Farook" source="x_caukp_myapp_faro">e322518c1b0d3550cf7f43b4cc4bcb6f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="myApp_Farook">e322518c1b0d3550cf7f43b4cc4bcb6f</sys_scope>
+        <sys_update_name>sys_number_2b721d8c1b0d3550cf7f43b4cc4bcbf7</sys_update_name>
+        <sys_updated_by>admin.FS</sys_updated_by>
+        <sys_updated_on>2023-08-29 07:19:43</sys_updated_on>
+    </sys_number>
+</record_update>
